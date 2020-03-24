@@ -1,2 +1,6 @@
 hhhhhh
+<<<<<<< HEAD
 hello
+=======
+nihao
+>>>>>>> 02fd1b5f802a0cd8ed7fb07deac48d5dd845a6ef
